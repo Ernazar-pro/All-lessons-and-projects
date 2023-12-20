@@ -1,0 +1,287 @@
+@import url(http://fonts.googleapis.com/css?family=Ubuntu);
+
+#name{
+    margin-left: 1350px;
+    margin-top: 50px;
+}
+
+.ul1 li{
+   letter-spacing: 0.15em;
+   margin-top: 23px;
+   float: left;
+   margin-left: 180px;
+   
+}
+
+.ul2 li{
+    letter-spacing: 0.15em;
+    margin-top: 23px;
+    float: left;
+    margin-left: 200px;
+}
+
+.ul3 li{
+    letter-spacing: 0.15em;
+    margin-top: 23px;
+    float: left;
+    margin-left: 200px;
+}
+
+.ul4 li{
+    letter-spacing: 0.15em;
+    margin-top: 24px;
+    float: left;
+    margin-left: 200px;
+}
+
+.ul5 li{
+    letter-spacing: 0.15em;
+    margin-top: 24px;
+    float: left;
+    margin-left: 200px;
+}
+
+div a{
+    text-decoration: none;
+    font-size: 12pt;
+    color: gray;
+    text-transform: uppercase;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+div a:hover {
+    color: lightsalmon;
+}
+
+.logo #logo {
+    width: 100px;
+    height: 100px;
+    margin-left: 150px;
+}
+
+.logo h2{
+    margin-top: -70px;
+    margin-left: 250px;
+    text-transform: uppercase;
+    color: black;
+}
+
+
+
+.login #login {
+    text-transform: uppercase;
+    text-decoration: none;
+    color: black;
+    margin-top: -1200px;
+    margin-left: 200px;
+}
+
+#pro{
+    margin-left: 600px;
+    margin-top: 100px;
+    font-size: 24pt;
+}
+
+#pro2{
+    font-size: 36pt;
+    margin-left: 350px;
+}
+
+#Macbook2{
+    margin-top: 30px;
+    margin-left:100px
+}
+
+#phone{
+    font-size: 24pt;
+    margin-left: 600px;
+}
+
+#text{
+    font-size: 36pt;
+    margin-left: 570px;
+}
+
+#Iphone{
+    margin-left: 150px;
+    margin-top: -50px;
+}
+
+.category img{
+    width: 300px;
+    border: 2px solid #000;
+}
+
+.category h2{
+    margin-left: 90px;
+    font-size: 24pt;
+    margin-top: -50px;
+}
+
+#login3 {
+    text-decoration: none;
+    font-size: 14pt;
+    text-transform: uppercase;
+    margin-left: 25px;
+}
+
+#login2 {
+    margin-right: -20px;
+    margin-top: -35px;
+    margin-left: 1250px;
+    font-size: 16pt;
+}
+
+.logout p{
+    margin-top: 100px;
+    margin-left: 400px;
+    letter-spacing: 0.15em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: uppercase;
+}
+
+#appliances {
+    color: #000;
+    margin-left: 200px;
+    text-decoration: none;
+}
+
+#appliances:hover{
+    color: aqua;
+}
+
+#electronics{
+    color: #000;
+    margin-left: 300px;
+    letter-spacing: 0.2em;
+    text-decoration: none;
+}
+
+#electronics:hover{
+    color: aqua;
+}
+
+#clothes{
+    color: #000;
+    margin-left: 200px;
+    text-decoration: none;
+}
+
+#clothes:hover{
+    color: aqua;
+}
+
+#health{
+    color: #000;
+    margin-left: 200px;
+    text-decoration: none;
+}
+
+#health:hover{
+    color: aqua;
+}
+
+#category{
+    margin-top: 50px;
+    text-align: center;
+}
+
+#product{
+    width: 220px;
+    height: 220px;
+}
+
+#title{
+    font-size: 12pt;
+    margin-left: 300px;
+    margin-top: -100px;
+}
+
+#price{
+    font-size: 12pt;
+    margin-left: 100px;
+}
+
+.products{
+    border: 2px solid #000;
+    margin-top: 50px;
+}
+
+
+.product-list .item {
+    width:25%;
+    padding:10px 20px 10px 0;
+    float:left;
+    text-align:center;
+    line-height:1.2;
+}
+
+.product-detail .price {
+    color:#333;
+    font-size:28px;
+    font-weight:bold;
+}
+
+
+.product-detail img {
+    width:40%;
+    float:left;
+    padding:0 20px 20px 0;
+}
+
+.product-detail h1 {
+    margin-bottom:0;
+}
+
+.product-detail h2 {
+    margin-top:10px;
+}
+
+#content {
+    padding:0 100px;
+    overflow:hidden;
+}
+
+#sidebar {
+    width:220px;
+    padding:30px 20px 0 0;
+    float:left;
+}
+
+#sidebar ul{
+    margin:0;
+    padding:0;
+}
+
+#sidebar ul li {
+    margin:0;
+    list-style:none;
+    padding:10px 20px;
+}
+
+#sidebar ul li a {
+    display:block;
+}
+
+#sidebar ul li.selected {
+    background:#5993bb;
+    border-radius:4px;
+}
+
+#sidebar ul li.selected a {
+    color:#fff;
+}
+
+
+.product-list .item img {
+    width:100%;
+    margin-bottom:8px;
+}
+
+.product-detail {
+    text-align:justify;
+}
+
+h1, h2, h3, h4, h5 , h6 {
+    font-family: 'Ubuntu', sans-serif; font-weight:normal;
+}

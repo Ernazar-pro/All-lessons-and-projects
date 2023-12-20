@@ -1,0 +1,16 @@
+
+
+jas=input('Jasinizdi kiritin: ')
+
+try:
+    jas=int(jas)
+
+except ValueError:
+    print('Jasinizdi putin sanda kiritin')
+
+else:
+    print(f'Siz {2023-jas} jili tuwilgansiz')
+
+print('Programma islep atir')
+print('Programma toqtadi')
+
